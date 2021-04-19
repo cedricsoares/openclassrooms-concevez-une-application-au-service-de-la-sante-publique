@@ -6,7 +6,7 @@ Il portait sur la simulation d'un appel à projets réalisé par [l'agence Sant�
 
 Il était demandé de réaliser:
 - Le nettoyage des données
-- Une analyse exploratoire complète des données : univarité, bivariée et multivariée.
+- Une analyse exploratoire complète des données : univariée, bivariée et multivariée.
 
 # Contenu du repositiry: 
 - Un notebook de nettoyage des données
